@@ -13,7 +13,7 @@ Este projeto é um portfólio pessoal responsivo desenvolvido para apresentar me
 
 ## 🌐 Link do Site Publicado
 Acesse o portfólio online através do GitHub Pages:
-👉 **[Cole aqui o link do seu GitHub Pages após publicar]**
+(https://dinho12165-cyber.github.io/portifolio/)
 
 ## ⚙️ Funcionamento do Projeto
 O site foi desenvolvido no formato de página única (*One Page*) com navegação fluida entre as seguintes seções:
