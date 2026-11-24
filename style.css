@@ -1,0 +1,27 @@
+.carousel-item img {
+    height: 50vh;
+    object-fit: cover;
+}
+
+.profile-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: top;
+    background-color: #e9ecef;
+}
+
+.project-img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Recurso Novo: Animações suaves ao passar o mouse */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15) !important;
+}
