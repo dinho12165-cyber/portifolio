@@ -4,10 +4,10 @@
 }
 
 .profile-img {
-    width: 220px;
-    height: 220px;
+    width: 220px !important;
+    height: 220px !important;
     object-fit: cover;
-    object-position: top;
+    object-position: center 20%;
     background-color: #e9ecef;
 }
 
@@ -16,7 +16,6 @@
     object-fit: cover;
 }
 
-/* Recurso Novo: Animações suaves ao passar o mouse */
 .card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -25,3 +24,4 @@
     transform: translateY(-8px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15) !important;
 }
+
